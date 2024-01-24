@@ -1,4 +1,4 @@
-# Testing-Menu-Hamburger-Button-on-BestBuy.com
+# Testing-Menu-Hamburger-Button-on-BestBuy.com using selenium-webdriver-java (Copyright © 2021-2024)
 
 **BestBuyHomepageTest.java** _(src/test/java/io/github/bonigarcia/webdriver/jupiter/ch03/locators)_ along with the Selenium tool to inspect and test the design of the Menu-Hamburger-Button, for BestBuy Homepage (https://www.bestbuy.com/)  
 
