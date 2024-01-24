@@ -24,14 +24,17 @@ The menu items are accessed by Xpath, and only clicking action is performed for 
 
 ## S-Curve chart to track Test Progress (use the test points calculated for every test case listed the prior requirement) with bars to represent Planned, Attempted, and Actual test cases
 
-image.png
+![image](https://github.com/BhavyaChawlaGit/Testing-Menu-Hamburger-Button-on-BestBuy.com/assets/112718303/ab642493-6b5e-4e97-b04a-e199b9d8cb57)
+
 
 Consisting of various WebElements/Sector like 3 dropdown lists/menus, and featured sections, followed by flyout list items below, the structural components within the Hamburger-Button menu are as follows:  
 The web components of the menu is under Menu-Container, which takes to the level 2 menu/submenu which is Flyout-SideCar-List, and thereafter to the level 3 menu.  
 
-image.png
+![image](https://github.com/BhavyaChawlaGit/Testing-Menu-Hamburger-Button-on-BestBuy.com/assets/112718303/54ad6d2c-bbfc-4f22-869b-47451abc2430)
 
-image.png
+
+![image](https://github.com/BhavyaChawlaGit/Testing-Menu-Hamburger-Button-on-BestBuy.com/assets/112718303/d435757a-1000-4106-8a7c-cfab29abd212)
+
 
 
 
