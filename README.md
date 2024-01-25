@@ -1,8 +1,6 @@
 # Testing-Menu-Hamburger-Button-on-BestBuy.com using selenium-webdriver-java (Copyright © 2021-2024)
 
-**BestBuyHomepageTest.java** _(src/test/java/io/github/bonigarcia/webdriver/jupiter/ch03/locators)_ along with the Selenium tool to inspect and test the design of the Menu-Hamburger-Button, for BestBuy Homepage (https://www.bestbuy.com/)  
-
-Total Test cases would be 20 (menu items) * 3 (Level 2 elements) * 2 (Level 3 elements) = 120 test cases  
+**BestBuyHomepageTest.java** _(src/test/java/io/github/bonigarcia/webdriver/jupiter/ch03/locators)_ along with the Selenium tool to inspect and test the design of the Menu-Hamburger-Button, for BestBuy Homepage (https://www.bestbuy.com/)    
 
 ## Test Plan:
 ### 1. Level 1 Menu Items: 20 Test Cases  
