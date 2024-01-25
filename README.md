@@ -36,6 +36,10 @@ The web components of the menu is under Menu-Container, which takes to the level
 
 ![image](https://github.com/BhavyaChawlaGit/Testing-Menu-Hamburger-Button-on-BestBuy.com/assets/112718303/d435757a-1000-4106-8a7c-cfab29abd212)
 
+## About
+selenium-webdriver-java (Copyright © 2021-2024) is an open-source project created and maintained by Boni Garcia, licensed under the terms of Apache 2.0 License  
+
+https://github.com/bonigarcia/selenium-webdriver-java?tab=readme-ov-file
 
 
 
